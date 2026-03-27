@@ -1,2 +1,2 @@
 def generate_signal():
-    return "MACD signal"
+    return "Sample MACD signal generated"
