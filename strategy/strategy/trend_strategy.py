@@ -1,2 +1,2 @@
 def generate_trend():
-    return "Trend signal"
+    return "Sample trend signal generated"
