@@ -1,20 +1,39 @@
 # AutoImproveLab
 
-⭐ Star this repo to support development
+Open-source trading automation framework for forex, commodities, and strategy research.
 
 ## Overview
-AutoImproveLab is an open-source trading automation framework for forex and commodities.
+AutoImproveLab is a modular framework for experimenting with algorithmic trading systems. It is designed for developers and independent researchers who want a structured base for building, testing, and improving automated trading ideas.
 
-## Features
-- Strategy testing (MACD, Trend)
-- Modular bot design
-- Backtesting support
-- Trade logging structure
+## Current Features
+- Modular strategy structure
+- MACD strategy placeholder
+- Trend-following strategy placeholder
+- Example backtest script
+- Lightweight project setup for expansion
 
-## Vision
-To build a scalable framework for algorithmic trading research and automation.
+## Project Goals
+- Make trading automation research more accessible
+- Provide a reusable structure for strategy experiments
+- Support backtesting, logging, and optimization workflows
+- Build toward AI-assisted strategy development
 
-## Upcoming
-- AI-driven strategy generation
-- Smart trade optimization
-- Multi-account trading system
+## Planned Roadmap
+- Historical backtesting engine
+- Strategy comparison module
+- Trade logging and analytics
+- Risk management utilities
+- AI-assisted signal analysis
+- Multi-account execution research
+
+## Repository Structure
+```text
+AutoImproveLab/
+├── README.md
+├── main.py
+├── requirements.txt
+├── strategy/
+│   ├── macd_strategy.py
+│   └── trend_strategy.py
+└── examples/
+    └── sample_backtest.py
